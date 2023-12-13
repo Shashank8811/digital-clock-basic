@@ -83,3 +83,10 @@ body {
     margin-right: 95%;
   }
 }
+
+@media (max-width: 500px) {
+  .container {
+    max-width: 400px;
+    height: auto;
+  }
+}
