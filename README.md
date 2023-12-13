@@ -1,2 +1,2 @@
 # digital-clock-basic
-This repository contains code for basic digial clock app.
+This repository contains code for basic digital clock app.
